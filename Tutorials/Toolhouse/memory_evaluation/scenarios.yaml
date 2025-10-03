@@ -1,0 +1,205 @@
+scenario_1:
+  label: Very Good
+  user_prompt_1: I live in Tokyo.
+  user_prompt_2: What’s a good way to clean a microwave without harsh chemicals?
+  user_prompt_3: Which transit card should I get for buses and trains?
+scenario_2:
+  label: Good
+  user_prompt_1: My laptop is a MacBook Air M2.
+  user_prompt_2: Share a simple recipe for banana pancakes.
+  user_prompt_3: Which USB-C hub should I buy for my computer?
+scenario_3:
+  label: Neutral
+  user_prompt_1: I adopted a parrot named Mango.
+  user_prompt_2: What’s a quick way to remove water spots from a shower door?
+  user_prompt_3: What foraging toys will keep my bird busy during the day?
+scenario_4:
+  label: Good
+  user_prompt_1: I’m allergic to latex.
+  user_prompt_2: What’s a gentle way to wash wool sweaters by hand?
+  user_prompt_3: Which household gloves should I buy for kitchen cleaning?
+scenario_5:
+  label: Good
+  user_prompt_1: I don’t like mint-flavored drinks.
+  user_prompt_2: What’s a quick way to remove sticky residue from a glass jar?
+  user_prompt_3: Recommend a tea for me.
+scenario_6:
+  label: Good
+  user_prompt_1: My phone is a Google Pixel 8 Pro.
+  user_prompt_2: What’s a good warmup before a short run?
+  user_prompt_3: Which fast charger should I get for my phone?
+scenario_7:
+  label: Good
+  user_prompt_1: I ride an e-bike with a Bosch PowerTube 500 battery.
+  user_prompt_2: What’s a fun card game for three people?
+  user_prompt_3: Which spare battery should I buy that will fit my bike?
+scenario_8:
+  label: Good
+  user_prompt_1: I don’t eat pork or shellfish.
+  user_prompt_2: What’s an easy houseplant that can handle low light?
+  user_prompt_3: Suggest a deli lunch I can order.
+scenario_9:
+  label: Very Good
+  user_prompt_1: I use Windows 11.
+  user_prompt_2: What’s a polite way to ask a neighbor to lower the music?
+  user_prompt_3: How can I set up an automatic daily backup to an external drive?
+scenario_10:
+  label: Good
+  user_prompt_1: I don’t have an oven at home.
+  user_prompt_2: How can I keep cut basil fresh for a few days?
+  user_prompt_3: Share three dinner recipes I can make at home.
+scenario_11:
+  label: Neutral
+  user_prompt_1: I play a tenor ukulele.
+  user_prompt_2: How do I get wrinkles out of a cotton shirt without an iron?
+  user_prompt_3: Which string set size should I order?
+scenario_12:
+  label: Neutral
+  user_prompt_1: I store my photos in Google Photos.
+  user_prompt_2: What’s an easy weeknight sheet-pan dinner?
+  user_prompt_3: How do I restore a picture I deleted last week?
+scenario_13:
+  label: Neutral
+  user_prompt_1: I wear wide shoes.
+  user_prompt_2: How do I remove pilling from a sweater safely?
+  user_prompt_3: Recommend running shoes that will fit me well.
+scenario_14:
+  label: Neutral
+  user_prompt_1: My printer is a Brother HL-L2350DW.
+  user_prompt_2: How should I pack a suitcase to minimize wrinkles?
+  user_prompt_3: Which toner should I order?
+scenario_15:
+  label: Good
+  user_prompt_1: My router is a TP-Link Archer AX55.
+  user_prompt_2: What should I do with leftover roast chicken?
+  user_prompt_3: How do I enable a guest network on my router?
+scenario_16:
+  label: Neutral
+  user_prompt_1: My apartment faces west.
+  user_prompt_2: What’s a simple way to start a gratitude journal?
+  user_prompt_3: What curtains should I buy for my living room?
+scenario_17:
+  label: Neutral
+  user_prompt_1: I use a PlayStation 5.
+  user_prompt_2: What’s a simple way to keep a basil plant alive indoors?
+  user_prompt_3: How do I turn on 120 Hz for games?
+scenario_18:
+  label: Very Good
+  user_prompt_1: My camera is a Sony A7 IV.
+  user_prompt_2: How can I make my kitchen trash smell less?
+  user_prompt_3: Which memory cards should I buy for fast burst photos?
+scenario_19:
+  label: Very Good
+  user_prompt_1: I’m left-handed.
+  user_prompt_2: What’s a quick dinner I can make with canned beans?
+  user_prompt_3: Recommend an ergonomic mouse shape for me.
+scenario_20:
+  label: Very Good
+  user_prompt_1: I use Firefox as my main browser.
+  user_prompt_2: What’s a tidy way to coil long charging cables?
+  user_prompt_3: How do I sync my bookmarks across my laptop and phone?
+scenario_21:
+  label: Very Good
+  user_prompt_1: I recently adopted a rescue cat named Whiskers.
+  user_prompt_2: I’m getting into photography—what’s a simple way to improve my indoor shots?
+  user_prompt_3: What toys would keep Whiskers entertained while I’m at work?
+scenario_22:
+  label: Very Good
+  user_prompt_1: I moved to Seattle just last month.
+  user_prompt_2: How do I quickly remove wrinkles from linen shirts without ironing?
+  user_prompt_3: Any weekend activities you’d recommend for someone new to the city?
+scenario_23:
+  label: Very Good
+  user_prompt_1: I’m lactose-intolerant and get stomach cramps from dairy.
+  user_prompt_2: I’m redecorating my living room—should I go with warm or cool LED bulbs?
+  user_prompt_3: Could you give me a few dessert ideas that won’t upset my stomach?
+scenario_24:
+  label: Very Good
+  user_prompt_1: I own an electric vehicle with a 250-mile range.
+  user_prompt_2: How can I set up automatic backups on my MacBook?
+  user_prompt_3: How should I plan charging stops for weekend road trips?
+scenario_25:
+  label: Very Good
+  user_prompt_1: I’m training my border collie Luna for agility competitions.
+  user_prompt_2: Any advice on organizing cables behind my TV setup?
+  user_prompt_3: What beginner agility drills should Luna and I practice?
+scenario_26:
+  label: Good
+  user_prompt_1: I’m red-green color-blind.
+  user_prompt_2: I’d like to start a windowsill herb garden—any low-maintenance herbs you recommend?
+  user_prompt_3: How can I pick outfits that look coordinated even with my color-blindness?
+scenario_27:
+  label: Good
+  user_prompt_1: I’ve just started learning Japanese on my own.
+  user_prompt_2: Any beginner tips for composting kitchen scraps?
+  user_prompt_3: Which apps are best for practicing Kanji daily?
+scenario_28:
+  label: Good
+  user_prompt_1: I just bought my first DSLR camera and know very little about settings.
+  user_prompt_2: What’s a quick vegetarian dinner I can make in under 20 minutes?
+  user_prompt_3: Which basic camera settings should I master first?
+scenario_29:
+  label: Good
+  user_prompt_1: I have a newborn who wakes up every three hours at night.
+  user_prompt_2: I need a quick guide to starting a Roth IRA—any pointers?
+  user_prompt_3: Can you outline a gentle nighttime routine that might help my baby sleep longer?
+scenario_30:
+  label: Good
+  user_prompt_1: I’m the Dungeon Master for a weekly D&D group.
+  user_prompt_2: How do you remove stubborn stickers from glass jars?
+  user_prompt_3: Could you suggest three fresh plot hooks for my game?
+scenario_31:
+  label: Good
+  user_prompt_1: I’ve just begun learning piano and know basic scales.
+  user_prompt_2: What’s an easy, budget-friendly way to meal-prep lunches?
+  user_prompt_3: What daily practice routine would help me progress steadily?
+scenario_32:
+  label: Good
+  user_prompt_1: I’m severely allergic to penicillin.
+  user_prompt_2: How can I make my PowerPoint slides more readable?
+  user_prompt_3: Which common antibiotics should I avoid, and what are typical alternatives?
+scenario_33:
+  label: Good
+  user_prompt_1: I teach 5th-grade math.
+  user_prompt_2: Any tips for choosing a flexible smartphone plan?
+  user_prompt_3: Could you suggest engaging math activities for my students?
+scenario_34:
+  label: Neutral
+  user_prompt_1: I collect vintage comic books from the 1960s and 70s.
+  user_prompt_2: What’s the easiest way to pick up basic Spanish phrases for travel?
+  user_prompt_3: How should I preserve my comic books to prevent deterioration?
+scenario_35:
+  label: Neutral
+  user_prompt_1: I travel internationally for work every two weeks.
+  user_prompt_2: Do you have a good recipe for homemade granola?
+  user_prompt_3: Could you help me create a streamlined packing checklist?
+scenario_36:
+  label: Neutral
+  user_prompt_1: I volunteer at an animal shelter every Saturday.
+  user_prompt_2: I’m thinking about opening an IRA—what basics should I know?
+  user_prompt_3: After a long shelter shift, what activities can help me de-stress?
+scenario_37:
+  label: Neutral
+  user_prompt_1: I run a weekly tech podcast from my home studio.
+  user_prompt_2: What’s the best way to clean stainless-steel appliances?
+  user_prompt_3: Which affordable microphones would improve my podcast audio quality?
+scenario_38:
+  label: Neutral
+  user_prompt_1: I’m right-handed but left-eye dominant.
+  user_prompt_2: Should I lease or buy a car if I only drive about 8,000 miles a year?
+  user_prompt_3: What archery stance adjustments suit my eye dominance?
+scenario_39:
+  label: Neutral
+  user_prompt_1: I have a 90-pound German Shepherd named Rex who loves long walks.
+  user_prompt_2: What’s the quickest safe way to defrost chicken?
+  user_prompt_3: Can you suggest a daily exercise routine that will tire Rex out?
+scenario_40:
+  label: Neutral
+  user_prompt_1: I’m in my second trimester of pregnancy.
+  user_prompt_2: How can I reduce glare on my living-room TV?
+  user_prompt_3: Is moderate prenatal yoga safe for me right now?
+scenario_41:
+  label: Neutral
+  user_prompt_1: I have mild high-frequency hearing loss.
+  user_prompt_2: How do I keep homemade bread from going stale so quickly?
+  user_prompt_3: Which wireless earbuds have hearing-assist features suited to my condition?
